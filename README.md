@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Minchan Kim
 
-<!--
-**banchan01/banchan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pusan National University, Information & Computer Engineering  
+📊 Interested in AI for Finance, Anomaly Detection 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Projects
+- [📈 Freezent](https://github.com/your-repo): AI agent for stock anomaly detection  
+- [💻 HAMBOOK STOCKS](https://github.com/your-repo): Mock investment platform (FastAPI + React)    
+
+---
+
+## 📫 Contact
+- ✉️ Email: kimmc3423@naver.com  
+- 💼 LinkedIn: [your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/minchan-kim-478813326/))
