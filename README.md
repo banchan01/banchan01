@@ -19,8 +19,8 @@
 ---
 
 ## 📌 Projects
-- [📈 Freezent](https://github.com/your-repo): AI agent for stock anomaly detection  
-- [💻 HAMBOOK STOCKS](https://github.com/your-repo): Mock investment platform (FastAPI + React)    
+- [📈 Freezent]: AI agent for stock anomaly detection  
+- [💻 HAMBOOK STOCKS]: Mock investment platform (FastAPI + React)    
 
 ---
 
