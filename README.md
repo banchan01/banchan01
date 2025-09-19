@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Minchan Kim
 
-🎓 Pusan National University, Information & Computer Engineering  
-📊 Interested in AI for Finance, Anomaly Detection 
+🎓 Pusan National University, Computer Science & Engineering  
+🤖 Interested in **AI** and **Backend Development**  
+📊 Especially passionate about **AI Agents** and **Anomaly Detection**  
 
 ---
 
